@@ -154,6 +154,5 @@ dmypy.json
 cython_debug/
 
 
-saved_model/single_pred
-
+token_git
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
